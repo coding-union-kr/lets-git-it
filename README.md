@@ -6,3 +6,4 @@
   - develop
     - frontend/feature
       - feature/styles
+      - feature/styles-2
