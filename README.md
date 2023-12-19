@@ -6,4 +6,5 @@
   - develop
     - frontend/feature
       - feature/styles
-      - feature/styles-2
+      - feature/styles\_수정
+      - feature/styles\_최종
