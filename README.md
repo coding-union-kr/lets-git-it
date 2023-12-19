@@ -8,3 +8,4 @@
       - feature/styles
       - feature/styles\_수정
       - feature/styles\_최종
+      - feature/styles\_최최종
